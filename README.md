@@ -9,10 +9,10 @@ se implementa la autenticación mediante JWT y Refresh Tokens con el esquema Bea
 
 Este proyecto incluye las siguentes funcionalidades , como:
 
-Sistema de Login y Registro de usuarios.
-JWT y generación de Tokens.
-Soporte para Refresh Tokens.
-Validación de usuarios por correo electrónico.
+- Sistema de Login y Registro de usuarios.
+- JWT y generación de Tokens.
+- Soporte para Refresh Tokens.
+- Validación de usuarios por correo electrónico.
 
 ## Tecnologías Utilizadas :books:
 - .NET 6: La última versión de la plataforma .NET para desarrollar aplicaciones web y API.[![.NET 6](https://img.shields.io/badge/.NET-6-blue.svg)](https://dotnet.microsoft.com/download/dotnet/6.0)
