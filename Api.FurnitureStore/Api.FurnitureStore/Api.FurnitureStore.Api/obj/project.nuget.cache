@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xgtiACxuK9CdeC1Nd7prL8gmUa61CU8WB7rqvRRV0CnNkG2uUzw8YzUXpSUsCRczUDkYdeQylNOOdCqKISUF0A==",
+  "dgSpecHash": "Na47KuOKs0QjhoNB4uCwERt/YxUVGs0K8hqii9z6wA8WGcuMWQGVqWvgKNC6+R4hzwSsaPqIWsovE8+z1S1VFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yoskeiner\\OneDrive\\Escritorio\\Api.FurnitureStore\\Api.FurnitureStore\\Api.FurnitureStore.Api\\Api.FurnitureStore.Api.csproj",
+  "projectFilePath": "C:\\Users\\yoskeiner\\OneDrive\\Escritorio\\Api_FurnitureStore\\Api.FurnitureStore\\Api.FurnitureStore\\Api.FurnitureStore.Api\\Api.FurnitureStore.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yoskeiner\\.nuget\\packages\\bouncycastle.cryptography\\2.1.1\\bouncycastle.cryptography.2.1.1.nupkg.sha512",
     "C:\\Users\\yoskeiner\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
@@ -44,6 +44,9 @@
     "C:\\Users\\yoskeiner\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.10.0\\microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
     "C:\\Users\\yoskeiner\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\yoskeiner\\.nuget\\packages\\mimekit\\4.0.0\\mimekit.4.0.0.nupkg.sha512",
+    "C:\\Users\\yoskeiner\\.nuget\\packages\\nlog\\5.2.2\\nlog.5.2.2.nupkg.sha512",
+    "C:\\Users\\yoskeiner\\.nuget\\packages\\nlog.extensions.logging\\5.3.2\\nlog.extensions.logging.5.3.2.nupkg.sha512",
+    "C:\\Users\\yoskeiner\\.nuget\\packages\\nlog.web.aspnetcore\\5.3.2\\nlog.web.aspnetcore.5.3.2.nupkg.sha512",
     "C:\\Users\\yoskeiner\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.2\\sqlitepclraw.bundle_e_sqlite3.2.1.2.nupkg.sha512",
     "C:\\Users\\yoskeiner\\.nuget\\packages\\sqlitepclraw.core\\2.1.2\\sqlitepclraw.core.2.1.2.nupkg.sha512",
     "C:\\Users\\yoskeiner\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.2\\sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",

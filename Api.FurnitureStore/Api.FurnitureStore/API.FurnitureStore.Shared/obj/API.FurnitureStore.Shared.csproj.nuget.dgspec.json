@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yoskeiner\\OneDrive\\Escritorio\\Api.FurnitureStore\\Api.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj": {}
+    "C:\\Users\\yoskeiner\\OneDrive\\Escritorio\\Api_FurnitureStore\\Api.FurnitureStore\\Api.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yoskeiner\\OneDrive\\Escritorio\\Api.FurnitureStore\\Api.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj": {
+    "C:\\Users\\yoskeiner\\OneDrive\\Escritorio\\Api_FurnitureStore\\Api.FurnitureStore\\Api.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yoskeiner\\OneDrive\\Escritorio\\Api.FurnitureStore\\Api.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\yoskeiner\\OneDrive\\Escritorio\\Api_FurnitureStore\\Api.FurnitureStore\\Api.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj",
         "projectName": "API.FurnitureStore.Shared",
-        "projectPath": "C:\\Users\\yoskeiner\\OneDrive\\Escritorio\\Api.FurnitureStore\\Api.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj",
+        "projectPath": "C:\\Users\\yoskeiner\\OneDrive\\Escritorio\\Api_FurnitureStore\\Api.FurnitureStore\\Api.FurnitureStore\\API.FurnitureStore.Shared\\API.FurnitureStore.Shared.csproj",
         "packagesPath": "C:\\Users\\yoskeiner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yoskeiner\\OneDrive\\Escritorio\\Api.FurnitureStore\\Api.FurnitureStore\\API.FurnitureStore.Shared\\obj\\",
+        "outputPath": "C:\\Users\\yoskeiner\\OneDrive\\Escritorio\\Api_FurnitureStore\\Api.FurnitureStore\\Api.FurnitureStore\\API.FurnitureStore.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

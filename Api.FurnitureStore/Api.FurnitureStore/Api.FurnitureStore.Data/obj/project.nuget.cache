@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SS9V3GKCi644U0yWQOCZG2IZYZGlIV7S6BPDrkKUsXUAeUES0B6eTtI0FB48dXWLftNW0Yfg6nDJPCHu7Dofhw==",
+  "dgSpecHash": "tMeeRh8ZZq5tFpJYEhvqkEiwmKaLnpgJL9SlA8VXCFyVlCYHQreXSNTPD9MVUOtGxid72GwqFNjBwhYPeBA75Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yoskeiner\\OneDrive\\Escritorio\\Api.FurnitureStore\\Api.FurnitureStore\\Api.FurnitureStore.Data\\Api.FurnitureStore.Data.csproj",
+  "projectFilePath": "C:\\Users\\yoskeiner\\OneDrive\\Escritorio\\Api_FurnitureStore\\Api.FurnitureStore\\Api.FurnitureStore\\Api.FurnitureStore.Data\\Api.FurnitureStore.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yoskeiner\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\yoskeiner\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.18\\microsoft.aspnetcore.cryptography.internal.6.0.18.nupkg.sha512",
